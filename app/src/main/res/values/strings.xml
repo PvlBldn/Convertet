@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertet</string>
+    <string name="radiobutton_meters">В Метрах</string>
+    <string name="radiobutton_inch">В Дюймах</string>
+    <string name="radiobutton_foots">В Футах</string>
+    <string name="button_convert_text">Конвертировать</string>
+    <color name="acticity_color">#9FA8DA</color>
+</resources>
